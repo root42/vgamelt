@@ -1,0 +1,4 @@
+melt (melt.c vga.h types.h)
+vga (vga.c vga.h types.h)
+gif (gif.c gif.h types.h)
+
